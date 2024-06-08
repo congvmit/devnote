@@ -37,3 +37,8 @@ It is OK to connect via Bluetooth, but the connection is not stable. It is recom
 
 
 
+
+### Known Issues
+
+Mouse is disconnecting and reconnecting every minute or so:
+  - Check this [link](https://askubuntu.com/questions/1435112/ubuntu-20-04-bluetooth-mouse-is-disconnecting-and-reconnecting-every-minute-or) for a possible solution.
